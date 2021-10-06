@@ -1,0 +1,6 @@
+{
+	"baseUrl":"http://model.fjdmll.com",   //api业务接口域名
+	"mainUrl":"http://model.fjdmll.com",      //项目域名
+	"wx_appid": "wx73ea2c1ca903ba43",    //微信授权 appid  
+	"wx_redirect_url": "http://h5.gllo.com.cn"  
+}
